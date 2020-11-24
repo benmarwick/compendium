@@ -1,7 +1,6 @@
 # compendium
 
-[![Travis-CI Build Status](https://travis-ci.org/cboettig/compendium.svg?branch=master)](https://travis-ci.org/cboettig/compendium)
-[![Actions Status](https://github.com/cboettig/compendium/workflows/Render%20manuscript/badge.svg)](https://github.com/cboettig/compendium/actions)
+[![Actions Status](https://github.com/benmarwick/compendium/workflows/Render%20manuscript/badge.svg)](https://github.com/benmarwick/compendium/actions)
 
 
 ## An example / template repository for an R compendium
