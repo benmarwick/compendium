@@ -1,6 +1,6 @@
 # compendium
 
-[![Actions Status](https://github.com/benmarwick/compendium/workflows/Render%20manuscript/badge.svg)](https://github.com/benmarwick/compendium/actions)
+[![Actions Status](https://github.com/benmarwick/compendium/workflows/Render%20manuscript%20on%20Docker/badge.svg)](https://github.com/benmarwick/compendium/actions)
 
 
 ## An example / template repository for an R compendium
