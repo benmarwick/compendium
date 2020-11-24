@@ -1,4 +1,4 @@
-name: Docker Actions
+name: Render manuscript on Docker
 on: [push]
 jobs:
   my_job: 
